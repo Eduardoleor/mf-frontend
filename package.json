@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "mf-design-components": "^0.0.3",
+    "mf-design-components": "1.0.4",
     "next": "14.2.9",
     "react": "^18",
     "react-dom": "^18"
